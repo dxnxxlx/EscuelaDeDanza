@@ -1,0 +1,84 @@
+.nosotros {
+	background-image: url(../img/dance_7.jpg);
+	padding: 10%;
+}
+.sobre {
+	padding: 5%;
+	background-color: rgba(0,0,0,0.5);
+	margin: auto 20%;
+}
+
+
+.pil {
+	background: url(../img/cubes.png) repeat;
+}
+
+.pil .container-fluid {
+	display: flex;
+	justify-content: space-around;
+}
+
+
+.pil h2 {
+	border-bottom: 1px solid gray;
+}
+
+.pil .col-4 {
+	padding: 5%;
+
+}
+.pil p, h2 {
+	padding: 20px 0;
+}
+
+.instructores img{
+	width: 150px;
+}
+.instructores .row {
+	padding: 40px 0;
+}
+.prof {
+	
+	background-size: 100%;
+	height: 150px;
+}
+
+
+
+.uno {
+	background-image: url(../img/profesor_4.jpg);
+}
+.dos {
+	background-image: url(../img/profesor_14.jpg);
+}
+.tres {
+	background-image: url(../img/profesor_1.jpg);
+}
+.cuatro {
+	background-image: url(../img/profesor_10.jpg);
+}
+.cinco {
+	background-image: url(../img/profesor_11.jpg);
+}
+.seis {
+	background-image: url(../img/profesor_13.jpg);
+}
+.siete {
+	background-image: url(../img/profesor_9.jpg);
+}
+.ocho {
+	background-image: url(../img/profesor_15.jpg);
+}
+.nombre {
+	font-size: 20px;
+	padding: 10px 5px;
+}
+
+.otrafrase {
+	background: url(../img/cubes.png) repeat;
+	padding: 5%;
+}
+
+.otrafrase p{
+	font-size: 35px;
+}

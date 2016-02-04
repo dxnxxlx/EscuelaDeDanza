@@ -1,0 +1,53 @@
+.clases .col-4{
+
+	
+	border: 8px solid #C3C6C5;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 420px;
+}
+
+.clas-op {
+	margin-top: 50%;
+	padding: 10% 15%;
+	color: white;
+	background-color: black;
+	opacity: 0.7;
+	
+}
+
+.clases {
+	background-color: #C3C6C5;
+	padding: 5%;
+}
+.d1 {
+	background-image: url(../img/dance_12.jpg);
+}
+
+.d2 {
+	background-image: url(../img/breakdance.jpg);
+}
+
+.d3 {
+	background-image: url(../img/lirical-jazz.jpg);
+}
+
+.d4 {
+	background-image: url(../img/arabe.jpg);
+}
+
+.d5 {
+	background-image: url(../img/little.jpg);
+}
+
+.d6 {
+	background-image: url(../img/yoga.jpg);
+}
+
+
+
+
+
+
+

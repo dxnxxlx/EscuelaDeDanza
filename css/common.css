@@ -1,0 +1,134 @@
+.pt-3 {
+	padding-top: 3%;
+}
+
+.pb-3 {
+	padding-bottom: 3%;
+}
+
+.pr-8 {
+	padding-right: 8%;
+}
+
+.pl-10 {
+	padding-left: 10%;
+}
+
+.pr-20 {
+	padding-right: 20%;
+}
+
+.plr-3{
+	padding-right: 3%;
+	padding-left: 3%;
+}
+
+.plr-8{
+	padding-right: 8%;
+	padding-left: 8%;
+}
+
+.pd-5-10 {
+	padding: 5% 10%;
+}
+
+nav li{
+	padding:8px;
+	font-size:15px;
+	position:relative;
+	border:1px;
+	display: inline;
+	top:20px;
+	
+}
+nav a{
+	list-style-type: none;
+	text-decoration: none;
+	padding:0% 2.5%;
+}
+
+.nav-titulo {
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.titulo-grande {
+	font-size: 65px;
+	font-weight: bold;
+}
+
+.texto {
+	font-size: 12px;
+}
+
+.boton {
+	background-color: #040F1D;
+	border-radius: 4%;
+	padding-top: 4%;
+	padding-bottom: 4%;
+}
+
+.pre {
+	white-space: pre;
+}
+
+ input{
+ 	
+ 	padding: 8px;
+ 	margin-bottom: 15px;
+ 	width: 35%;
+
+}
+
+input:last-child{
+	padding-bottom: 100px;
+}
+
+.contacto p {
+	padding-left: 1.5%;
+	margin-bottom: 3%;
+}
+.contacto .col-1{
+	height: 25px;
+}
+
+.contacto{
+	background-image: url(../img/shoes_1.jpg);
+	background-position: top right;
+	background-size:  50%;
+	background-repeat: no-repeat;
+	
+}
+
+.enviar{
+	background-color: #040F1D;
+	color: white;
+	padding: 8px;
+ 	width: 35%;
+}
+
+.contactanos {
+	font-weight: bold;
+	font-size: 35px;
+}
+
+/*.user{
+	background-image: url(http://rexkirby.com/kirbyandson/images/name.svg);
+	background-size: cover;
+}
+.correo{
+	background-image: url(http://rexkirby.com/kirbyandson/images/email.svg);
+	background-size: cover;
+}
+
+.mensaje{
+	background-image: url(http://rexkirby.com/kirbyandson/images/comment.svg);
+	background-size: 100%;
+}*/
+
+footer{
+	background-color: #040F1D;
+	padding-left: 3%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}

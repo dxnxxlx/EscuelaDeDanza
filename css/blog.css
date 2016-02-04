@@ -1,0 +1,29 @@
+.art1{
+	background-image: url(../img/blog1.jpg);
+	height: 230px;
+}
+.bg-gris{
+	background-color: rgba(0, 0, 0, 0.2);
+	height: 230px;
+}
+.ver{
+	width: 20%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	font-size: 13px;
+}
+.bg-gris p{
+	font-size: 13px;
+}
+.art2{
+	background-image: url(../img/profesor_5.jpg);
+	height: 230px;
+}
+.art3{
+	background-image: url(../img/instructor_1.jpg);
+	height: 230px;
+}
+.blog button {
+	background-color: #040F1D;
+	border-style: none;
+}

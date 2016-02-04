@@ -1,0 +1,82 @@
+.studio {
+	background-image:url("../img/dance_1.jpg");
+    background-size: 100%;
+}
+
+.inscribete{
+	width: 100px;
+	height: 50px;
+	margin-left: 120px;
+	margin-top: 40px;
+	padding: 15px;
+	font-family: LatoHeavy;
+}
+
+.frase {
+	font-size: 23px;
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.deco1 img{
+	width: 10%;
+
+}
+.bg1{
+	background-image: url("../img/textura_2.jpg");
+    background-repeat: repeat;
+}
+
+.oferta .boton {
+	width: 20%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 1.5%;
+	padding-bottom: 1.5%;
+}
+
+.prof-1{
+	background-image:url("../img/instructor_4.jpg");
+	background-size: 100%;
+	background-repeat:no-repeat;
+	height:300px;
+	border:1px solid #040F1D;
+}
+
+.prof-2{
+	background-image:url("../img/profesor_9.jpg");
+	background-size: 100%;
+	background-repeat:no-repeat;
+	height:300px;
+	border:1px solid #040F1D;
+}
+
+.botoninst {
+	width: 30%;
+	height: 50px;
+	background-color: #030D1D;
+	font-size: 17px;
+	font-family:Latolight ;
+}
+
+
+.cita p{
+	font-size: 38px;
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.mapa {
+	background-color: #192951;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+.mapa iframe{
+
+}
+
+
+
